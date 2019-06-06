@@ -1,5 +1,5 @@
 public class Prueba {
   public static void main(String[] args) {
-    System.out.println("Prueba principal");
+    System.out.println("Prueba principal otra");
   }
 }
